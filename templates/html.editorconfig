@@ -1,0 +1,4 @@
+[*.html]
+indent_size = 2
+insert_final_line = true
+trim_trailing_whitespace = true
