@@ -1,2 +1,11 @@
+c
+cpp
+csharp
+css
+fsharp
+hsp
 html
+js
+ts
 rust
+sql
