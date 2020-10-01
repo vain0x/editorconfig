@@ -1,0 +1,16 @@
+{command} v{version} Create .editorconfig file
+
+USAGE:
+    {command} 'lang1,lang2,...'
+
+EXAMPLE:
+    {command} rust
+    {command} 'html,css,ts'
+
+OPTIONS:
+    -o <FILE>       Specify output file
+                    (default to .editorconfig)
+    -h, --help      Show help
+    -V, --version   Show version
+
+Official page: https://github.com/vain0x/editorconfig
