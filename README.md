@@ -11,7 +11,7 @@ Tiny script to generate `.editorconfig`.
 Install cargo from <https://rustlang.org>.
 
 ```sh
-cargo install editorconfig --git https://github.com/vain0x/editorconfig
+cargo install editorconfig --git https://github.com/vain0x/editorconfig --branch main
 ```
 
 ## Usage
@@ -40,3 +40,7 @@ Split language names by comma `,`:
 ```sh
 editorconfig 'html,css,ts'
 ```
+
+### List of Languages
+
+See [templates/index.txt](templates/index.txt).
