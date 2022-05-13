@@ -1,11 +1,13 @@
 c
-cpp,cc,cxx,cplusplus,c++,cplusplus
+cpp,cc,cxx,cplusplus,c++
 csharp,cs,c#
 css
 fsharp,fs,f#
 hsp,hsp3
 html,htm
 js,jsx,javascript
-ts,tsx,typescript
+markdown,md
 rust,rs
 sql
+ts,tsx,typescript
+yaml,yml
