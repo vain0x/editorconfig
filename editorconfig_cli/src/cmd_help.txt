@@ -8,8 +8,6 @@ EXAMPLE:
     {command} 'html,css,ts'
 
 OPTIONS:
-    -o <FILE>       Specify output file
-                    (default to .editorconfig)
     -h, --help      Show help
     -V, --version   Show version
 
