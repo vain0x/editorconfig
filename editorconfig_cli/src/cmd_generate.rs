@@ -1,5 +1,5 @@
 fn is_safe_char(c: char) -> bool {
-    c.is_ascii_alphanumeric() || c == '-'
+    c.is_ascii_alphanumeric() || c == '-' || c == '+' || c == '#'
 }
 
 pub(crate) fn exec_generate_cmd(mut args: impl Iterator<Item = String>) {
