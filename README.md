@@ -29,7 +29,7 @@ root = true
 
 [*.rs]
 indent_size = 4
-insert_final_line = true
+insert_final_newline = true
 trim_trailing_whitespace = true
 ```
 
